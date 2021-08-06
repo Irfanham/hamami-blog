@@ -45,6 +45,7 @@
 }
 
 .title {
+  color: #333;
   margin: 0;
   line-height: 1.15;
   font-size: 4rem;
@@ -118,4 +119,15 @@
     width: 100%;
     flex-direction: column;
   }
+}
+
+.btn {
+  display: block;
+  width: 150px;
+  padding: 8px 0;
+  margin: 20px auto;
+  background: #4979ff;
+  border-radius: 4px;
+  color: white;
+  text-align: center;
 }
